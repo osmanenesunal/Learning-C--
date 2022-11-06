@@ -1,0 +1,10 @@
+D:\C# Projeler\int_form\int_form\bin\Debug\int_form.exe.config
+D:\C# Projeler\int_form\int_form\bin\Debug\int_form.exe
+D:\C# Projeler\int_form\int_form\bin\Debug\int_form.pdb
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.Form1.resources
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.Properties.Resources.resources
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.csproj.GenerateResource.cache
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.csproj.CoreCompileInputs.cache
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.exe
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.pdb
+D:\C# Projeler\int_form\int_form\obj\Debug\int_form.csproj.AssemblyReference.cache

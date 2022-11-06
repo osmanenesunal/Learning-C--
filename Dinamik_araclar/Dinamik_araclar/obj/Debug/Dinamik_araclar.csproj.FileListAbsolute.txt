@@ -1,0 +1,10 @@
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\bin\Debug\Dinamik_araclar.exe.config
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\bin\Debug\Dinamik_araclar.exe
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\bin\Debug\Dinamik_araclar.pdb
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.csproj.AssemblyReference.cache
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.Form1.resources
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.Properties.Resources.resources
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.csproj.GenerateResource.cache
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.exe
+D:\C# Projeler\Dinamik_araclar\Dinamik_araclar\obj\Debug\Dinamik_araclar.pdb

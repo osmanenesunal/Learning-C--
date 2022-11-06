@@ -1,0 +1,7 @@
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.csproj.AssemblyReference.cache
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.Form1.resources
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.csproj.GenerateResource.cache
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.AssemblyInfoInputs.cache
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.AssemblyInfo.cs
+D:\C# Projeler\Hesap_switch\Hesap_switch\obj\Debug\netcoreapp3.1\Hesap_switch.csproj.CoreCompileInputs.cache

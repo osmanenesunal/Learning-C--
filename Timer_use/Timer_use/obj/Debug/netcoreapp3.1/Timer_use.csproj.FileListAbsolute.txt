@@ -1,0 +1,16 @@
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.exe
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.deps.json
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.runtimeconfig.json
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.runtimeconfig.dev.json
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.dll
+D:\C# Projeler\Timer_use\Timer_use\bin\Debug\netcoreapp3.1\Timer_use.pdb
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.csproj.AssemblyReference.cache
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.Form1.resources
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.csproj.GenerateResource.cache
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.AssemblyInfoInputs.cache
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.AssemblyInfo.cs
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.dll
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.pdb
+D:\C# Projeler\Timer_use\Timer_use\obj\Debug\netcoreapp3.1\Timer_use.genruntimeconfig.cache

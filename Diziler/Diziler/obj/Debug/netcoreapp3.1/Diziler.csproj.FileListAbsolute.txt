@@ -1,0 +1,16 @@
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.csproj.AssemblyReference.cache
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.Form1.resources
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.csproj.GenerateResource.cache
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfoInputs.cache
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.AssemblyInfo.cs
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.exe
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.deps.json
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.json
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.runtimeconfig.dev.json
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.dll
+D:\C# Projeler\Diziler\Diziler\bin\Debug\netcoreapp3.1\Diziler.pdb
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.dll
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.pdb
+D:\C# Projeler\Diziler\Diziler\obj\Debug\netcoreapp3.1\Diziler.genruntimeconfig.cache

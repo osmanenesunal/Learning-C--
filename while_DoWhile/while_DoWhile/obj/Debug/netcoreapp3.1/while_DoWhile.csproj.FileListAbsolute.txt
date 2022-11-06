@@ -1,0 +1,16 @@
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.exe
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.deps.json
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.runtimeconfig.json
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.runtimeconfig.dev.json
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.dll
+D:\C# Projeler\while_DoWhile\while_DoWhile\bin\Debug\netcoreapp3.1\while_DoWhile.pdb
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.csproj.AssemblyReference.cache
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.Form1.resources
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.csproj.GenerateResource.cache
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.AssemblyInfoInputs.cache
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.AssemblyInfo.cs
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.csproj.CoreCompileInputs.cache
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.dll
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.pdb
+D:\C# Projeler\while_DoWhile\while_DoWhile\obj\Debug\netcoreapp3.1\while_DoWhile.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.exe.config
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.exe
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\bin\Debug\Degiskenler_double.pdb
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.Form1.resources
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.Properties.Resources.resources
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csproj.GenerateResource.cache
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.exe
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.pdb
+D:\C# Projeler\Degiskenler_double\Degiskenler_double\obj\Debug\Degiskenler_double.csproj.AssemblyReference.cache

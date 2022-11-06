@@ -1,0 +1,16 @@
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.exe
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.deps.json
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.runtimeconfig.json
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.runtimeconfig.dev.json
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.dll
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\bin\Debug\netcoreapp3.1\Dongu_karar_yapıları.pdb
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.csproj.AssemblyReference.cache
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.Form1.resources
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.csproj.GenerateResource.cache
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.AssemblyInfoInputs.cache
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.AssemblyInfo.cs
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.dll
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.pdb
+D:\C# Projeler\Dongu_karar_yapıları\Dongu_karar_yapıları\obj\Debug\netcoreapp3.1\Dongu_karar_yapıları.genruntimeconfig.cache

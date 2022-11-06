@@ -1,0 +1,10 @@
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\bin\Debug\uçuş_rezarvasyon.exe.config
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\bin\Debug\uçuş_rezarvasyon.exe
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\bin\Debug\uçuş_rezarvasyon.pdb
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.csproj.AssemblyReference.cache
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.Form1.resources
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.Properties.Resources.resources
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.csproj.GenerateResource.cache
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.csproj.CoreCompileInputs.cache
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.exe
+D:\C# Projeler\uçuş_rezarvasyon\uçuş_rezarvasyon\obj\Debug\uçuş_rezarvasyon.pdb

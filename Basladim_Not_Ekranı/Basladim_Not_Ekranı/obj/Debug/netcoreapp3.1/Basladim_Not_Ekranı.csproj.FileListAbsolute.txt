@@ -1,0 +1,16 @@
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.exe
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.deps.json
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.runtimeconfig.json
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.runtimeconfig.dev.json
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.dll
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\bin\Debug\netcoreapp3.1\Basladim_Not_Ekranı.pdb
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.csproj.AssemblyReference.cache
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.Form1.resources
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.csproj.GenerateResource.cache
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.AssemblyInfoInputs.cache
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.AssemblyInfo.cs
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.dll
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.pdb
+D:\C# Projeler\Basladim_Not_Ekranı\Basladim_Not_Ekranı\obj\Debug\netcoreapp3.1\Basladim_Not_Ekranı.genruntimeconfig.cache

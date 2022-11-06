@@ -1,0 +1,10 @@
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\bin\Debug\Not_Hesaplama.exe.config
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\bin\Debug\Not_Hesaplama.exe
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\bin\Debug\Not_Hesaplama.pdb
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.csproj.AssemblyReference.cache
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.Form1.resources
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.Properties.Resources.resources
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.csproj.GenerateResource.cache
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.exe
+D:\C# Projeler\Not_Hesaplama\Not_Hesaplama\obj\Debug\Not_Hesaplama.pdb

@@ -1,0 +1,10 @@
+D:\C# Projeler\String_ogrenme\String_ogrenme\bin\Debug\String_ogrenme.exe.config
+D:\C# Projeler\String_ogrenme\String_ogrenme\bin\Debug\String_ogrenme.exe
+D:\C# Projeler\String_ogrenme\String_ogrenme\bin\Debug\String_ogrenme.pdb
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.csproj.AssemblyReference.cache
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.Form1.resources
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.Properties.Resources.resources
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.csproj.GenerateResource.cache
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.csproj.CoreCompileInputs.cache
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.exe
+D:\C# Projeler\String_ogrenme\String_ogrenme\obj\Debug\String_ogrenme.pdb

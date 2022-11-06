@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\bin\Debug\int_Pratikörnek3.exe.config
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\bin\Debug\int_Pratikörnek3.exe
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\bin\Debug\int_Pratikörnek3.pdb
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.csproj.AssemblyReference.cache
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.Form1.resources
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.Properties.Resources.resources
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.exe
+C:\Users\90545\source\repos\int_Pratikörnek3\int_Pratikörnek3\obj\Debug\int_Pratikörnek3.pdb

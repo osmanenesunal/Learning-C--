@@ -1,0 +1,16 @@
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.exe
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.deps.json
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.runtimeconfig.json
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.runtimeconfig.dev.json
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.dll
+D:\C# Projeler\Progress_bar\Progress_bar\bin\Debug\netcoreapp3.1\Progress_bar.pdb
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.csproj.AssemblyReference.cache
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.Form1.resources
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.csproj.GenerateResource.cache
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.AssemblyInfoInputs.cache
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.AssemblyInfo.cs
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.dll
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.pdb
+D:\C# Projeler\Progress_bar\Progress_bar\obj\Debug\netcoreapp3.1\Progress_bar.genruntimeconfig.cache

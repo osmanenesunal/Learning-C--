@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Combox_Listbox", "Combox_Listbox\Combox_Listbox.csproj", "{839B9292-0FC1-4A1B-883B-8345E2446FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{839B9292-0FC1-4A1B-883B-8345E2446FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839B9292-0FC1-4A1B-883B-8345E2446FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839B9292-0FC1-4A1B-883B-8345E2446FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839B9292-0FC1-4A1B-883B-8345E2446FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3D67D33-8B53-4DB9-9239-9AB3AB5574FA}
+	EndGlobalSection
+EndGlobal

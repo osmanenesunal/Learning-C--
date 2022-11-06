@@ -1,0 +1,10 @@
+D:\C# Projeler\switch_case\switch_case\bin\Debug\switch_case.exe.config
+D:\C# Projeler\switch_case\switch_case\bin\Debug\switch_case.exe
+D:\C# Projeler\switch_case\switch_case\bin\Debug\switch_case.pdb
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.csproj.AssemblyReference.cache
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.Form1.resources
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.Properties.Resources.resources
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.csproj.GenerateResource.cache
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.csproj.CoreCompileInputs.cache
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.exe
+D:\C# Projeler\switch_case\switch_case\obj\Debug\switch_case.pdb

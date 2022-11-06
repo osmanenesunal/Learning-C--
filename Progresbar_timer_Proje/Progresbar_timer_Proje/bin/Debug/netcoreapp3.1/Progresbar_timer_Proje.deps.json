@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Progresbar_timer_Proje/1.0.0": {
+        "runtime": {
+          "Progresbar_timer_Proje.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Progresbar_timer_Proje/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.exe
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.deps.json
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.runtimeconfig.json
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.runtimeconfig.dev.json
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.dll
+D:\C# Projeler\timer_2\timer_2\bin\Debug\netcoreapp3.1\timer_2.pdb
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.csproj.AssemblyReference.cache
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.Form1.resources
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.csproj.GenerateResource.cache
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.AssemblyInfoInputs.cache
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.AssemblyInfo.cs
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.csproj.CoreCompileInputs.cache
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.dll
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.pdb
+D:\C# Projeler\timer_2\timer_2\obj\Debug\netcoreapp3.1\timer_2.genruntimeconfig.cache

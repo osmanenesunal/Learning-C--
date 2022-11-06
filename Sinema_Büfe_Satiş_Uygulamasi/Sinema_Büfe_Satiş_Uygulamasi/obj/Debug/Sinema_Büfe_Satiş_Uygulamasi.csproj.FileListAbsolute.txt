@@ -1,0 +1,10 @@
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\bin\Debug\Sinema_Büfe_Satiş_Uygulamasi.exe.config
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\bin\Debug\Sinema_Büfe_Satiş_Uygulamasi.exe
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\bin\Debug\Sinema_Büfe_Satiş_Uygulamasi.pdb
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.csproj.AssemblyReference.cache
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.Form1.resources
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.Properties.Resources.resources
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.csproj.GenerateResource.cache
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.exe
+D:\C# Projeler\Sinema_Büfe_Satiş_Uygulamasi\Sinema_Büfe_Satiş_Uygulamasi\obj\Debug\Sinema_Büfe_Satiş_Uygulamasi.pdb

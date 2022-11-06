@@ -1,0 +1,10 @@
+D:\C# Projeler\Chart_Learm\Chart_Learm\bin\Debug\Chart_Learm.exe.config
+D:\C# Projeler\Chart_Learm\Chart_Learm\bin\Debug\Chart_Learm.exe
+D:\C# Projeler\Chart_Learm\Chart_Learm\bin\Debug\Chart_Learm.pdb
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.csproj.AssemblyReference.cache
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.Form1.resources
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.Properties.Resources.resources
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.csproj.GenerateResource.cache
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.exe
+D:\C# Projeler\Chart_Learm\Chart_Learm\obj\Debug\Chart_Learm.pdb

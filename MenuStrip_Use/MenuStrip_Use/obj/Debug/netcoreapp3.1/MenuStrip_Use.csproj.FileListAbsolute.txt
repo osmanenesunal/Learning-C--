@@ -1,0 +1,16 @@
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.exe
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.deps.json
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.runtimeconfig.json
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.runtimeconfig.dev.json
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.dll
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\bin\Debug\netcoreapp3.1\MenuStrip_Use.pdb
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.csproj.AssemblyReference.cache
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.Form1.resources
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.csproj.GenerateResource.cache
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.AssemblyInfoInputs.cache
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.AssemblyInfo.cs
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.csproj.CoreCompileInputs.cache
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.dll
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.pdb
+D:\C# Projeler\MenuStrip_Use\MenuStrip_Use\obj\Debug\netcoreapp3.1\MenuStrip_Use.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\C# Projeler\Enum_stc\Enum_stc\bin\Debug\Enum_stc.exe.config
+D:\C# Projeler\Enum_stc\Enum_stc\bin\Debug\Enum_stc.exe
+D:\C# Projeler\Enum_stc\Enum_stc\bin\Debug\Enum_stc.pdb
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.Form1.resources
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.Properties.Resources.resources
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.csproj.GenerateResource.cache
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.exe
+D:\C# Projeler\Enum_stc\Enum_stc\obj\Debug\Enum_stc.pdb

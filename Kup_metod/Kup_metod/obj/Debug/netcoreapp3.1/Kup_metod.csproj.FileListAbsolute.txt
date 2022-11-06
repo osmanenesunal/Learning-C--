@@ -1,0 +1,16 @@
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.exe
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.deps.json
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.runtimeconfig.json
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.runtimeconfig.dev.json
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.dll
+D:\C# Projeler\Kup_metod\Kup_metod\bin\Debug\netcoreapp3.1\Kup_metod.pdb
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.csproj.AssemblyReference.cache
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.Form1.resources
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.csproj.GenerateResource.cache
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.AssemblyInfoInputs.cache
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.AssemblyInfo.cs
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.dll
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.pdb
+D:\C# Projeler\Kup_metod\Kup_metod\obj\Debug\netcoreapp3.1\Kup_metod.genruntimeconfig.cache

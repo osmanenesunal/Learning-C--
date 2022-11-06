@@ -1,0 +1,10 @@
+D:\C# Projeler\Rondom_Class\Rondom_Class\bin\Debug\Rondom_Class.exe.config
+D:\C# Projeler\Rondom_Class\Rondom_Class\bin\Debug\Rondom_Class.exe
+D:\C# Projeler\Rondom_Class\Rondom_Class\bin\Debug\Rondom_Class.pdb
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.csproj.AssemblyReference.cache
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.Form1.resources
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.Properties.Resources.resources
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.csproj.GenerateResource.cache
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.exe
+D:\C# Projeler\Rondom_Class\Rondom_Class\obj\Debug\Rondom_Class.pdb

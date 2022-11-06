@@ -1,0 +1,10 @@
+D:\C# Projeler\if_yapisi\if_yapisi\bin\Debug\if_yapisi.exe.config
+D:\C# Projeler\if_yapisi\if_yapisi\bin\Debug\if_yapisi.exe
+D:\C# Projeler\if_yapisi\if_yapisi\bin\Debug\if_yapisi.pdb
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.csproj.AssemblyReference.cache
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.Form1.resources
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.Properties.Resources.resources
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.csproj.GenerateResource.cache
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.csproj.CoreCompileInputs.cache
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.exe
+D:\C# Projeler\if_yapisi\if_yapisi\obj\Debug\if_yapisi.pdb

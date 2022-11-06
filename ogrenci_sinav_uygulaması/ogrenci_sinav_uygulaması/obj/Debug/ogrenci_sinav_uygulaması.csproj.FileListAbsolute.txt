@@ -1,0 +1,10 @@
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\bin\Debug\ogrenci_sinav_uygulaması.exe.config
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\bin\Debug\ogrenci_sinav_uygulaması.exe
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\bin\Debug\ogrenci_sinav_uygulaması.pdb
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.csproj.AssemblyReference.cache
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.Form1.resources
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.Properties.Resources.resources
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.csproj.GenerateResource.cache
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.csproj.CoreCompileInputs.cache
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.exe
+D:\C# Projeler\ogrenci_sinav_uygulaması\ogrenci_sinav_uygulaması\obj\Debug\ogrenci_sinav_uygulaması.pdb

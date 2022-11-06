@@ -1,0 +1,10 @@
+D:\C# Projeler\int_degisken\int_degisken\bin\Debug\int_degisken.exe.config
+D:\C# Projeler\int_degisken\int_degisken\bin\Debug\int_degisken.exe
+D:\C# Projeler\int_degisken\int_degisken\bin\Debug\int_degisken.pdb
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.Form1.resources
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.Properties.Resources.resources
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.csproj.GenerateResource.cache
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.csproj.CoreCompileInputs.cache
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.exe
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.pdb
+D:\C# Projeler\int_degisken\int_degisken\obj\Debug\int_degisken.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+D:\C# Projeler\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.Form1.resources
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.GenerateResource.cache
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+D:\C# Projeler\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache

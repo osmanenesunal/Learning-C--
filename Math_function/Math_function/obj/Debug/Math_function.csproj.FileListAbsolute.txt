@@ -1,0 +1,10 @@
+D:\C# Projeler\Math_function\Math_function\bin\Debug\Math_function.exe.config
+D:\C# Projeler\Math_function\Math_function\bin\Debug\Math_function.exe
+D:\C# Projeler\Math_function\Math_function\bin\Debug\Math_function.pdb
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.csproj.AssemblyReference.cache
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.Form1.resources
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.Properties.Resources.resources
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.csproj.GenerateResource.cache
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.exe
+D:\C# Projeler\Math_function\Math_function\obj\Debug\Math_function.pdb

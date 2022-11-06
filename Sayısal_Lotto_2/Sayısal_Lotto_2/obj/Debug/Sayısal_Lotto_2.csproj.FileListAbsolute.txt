@@ -1,0 +1,10 @@
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\bin\Debug\Sayısal_Lotto_2.exe.config
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\bin\Debug\Sayısal_Lotto_2.exe
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\bin\Debug\Sayısal_Lotto_2.pdb
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.csproj.AssemblyReference.cache
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.Form1.resources
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.Properties.Resources.resources
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.csproj.GenerateResource.cache
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.exe
+D:\C# Projeler\Sayısal_Lotto_2\Sayısal_Lotto_2\obj\Debug\Sayısal_Lotto_2.pdb

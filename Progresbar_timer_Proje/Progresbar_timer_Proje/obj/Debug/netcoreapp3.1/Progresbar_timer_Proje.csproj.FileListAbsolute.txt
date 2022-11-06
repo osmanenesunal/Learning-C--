@@ -1,0 +1,16 @@
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.exe
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.deps.json
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.runtimeconfig.json
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.runtimeconfig.dev.json
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.dll
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\bin\Debug\netcoreapp3.1\Progresbar_timer_Proje.pdb
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.csproj.AssemblyReference.cache
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.Form1.resources
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.csproj.GenerateResource.cache
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.AssemblyInfoInputs.cache
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.AssemblyInfo.cs
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.dll
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.pdb
+D:\C# Projeler\Progresbar_timer_Proje\Progresbar_timer_Proje\obj\Debug\netcoreapp3.1\Progresbar_timer_Proje.genruntimeconfig.cache

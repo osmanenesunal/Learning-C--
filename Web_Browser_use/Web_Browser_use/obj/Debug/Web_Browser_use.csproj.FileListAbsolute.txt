@@ -1,0 +1,10 @@
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\bin\Debug\Web_Browser_use.exe.config
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\bin\Debug\Web_Browser_use.exe
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\bin\Debug\Web_Browser_use.pdb
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.csproj.AssemblyReference.cache
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.Form1.resources
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.Properties.Resources.resources
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.csproj.GenerateResource.cache
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.exe
+D:\C# Projeler\Web_Browser_use\Web_Browser_use\obj\Debug\Web_Browser_use.pdb

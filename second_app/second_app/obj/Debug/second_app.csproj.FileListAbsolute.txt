@@ -1,0 +1,10 @@
+D:\C# Projeler\second_app\second_app\bin\Debug\second_app.exe.config
+D:\C# Projeler\second_app\second_app\bin\Debug\second_app.exe
+D:\C# Projeler\second_app\second_app\bin\Debug\second_app.pdb
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.csproj.AssemblyReference.cache
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.Form1.resources
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.Properties.Resources.resources
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.csproj.GenerateResource.cache
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.csproj.CoreCompileInputs.cache
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.exe
+D:\C# Projeler\second_app\second_app\obj\Debug\second_app.pdb

@@ -1,0 +1,17 @@
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.exe
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.deps.json
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.runtimeconfig.json
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.runtimeconfig.dev.json
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.dll
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\bin\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.pdb
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.csproj.AssemblyReference.cache
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.Form1.resources
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.Properties.Resources.resources
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.csproj.GenerateResource.cache
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.AssemblyInfoInputs.cache
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.AssemblyInfo.cs
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.dll
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.pdb
+D:\C# Projeler\Personel_Kayit_Sistemi\Personel_Kayit_Sistemi\obj\Debug\netcoreapp3.1\Personel_Kayit_Sistemi.genruntimeconfig.cache

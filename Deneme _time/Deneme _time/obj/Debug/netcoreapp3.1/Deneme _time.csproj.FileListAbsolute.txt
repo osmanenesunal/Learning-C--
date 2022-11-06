@@ -1,0 +1,15 @@
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.exe
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.deps.json
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.runtimeconfig.json
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.runtimeconfig.dev.json
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.dll
+D:\C# Projeler\Deneme _time\Deneme _time\bin\Debug\netcoreapp3.1\Deneme _time.pdb
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme__time.Form1.resources
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.csproj.GenerateResource.cache
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.AssemblyInfoInputs.cache
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.AssemblyInfo.cs
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.dll
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.pdb
+D:\C# Projeler\Deneme _time\Deneme _time\obj\Debug\netcoreapp3.1\Deneme _time.genruntimeconfig.cache

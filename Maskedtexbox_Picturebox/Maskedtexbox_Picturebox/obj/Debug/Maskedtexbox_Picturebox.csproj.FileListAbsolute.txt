@@ -1,0 +1,10 @@
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\bin\Debug\Maskedtexbox_Picturebox.exe.config
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\bin\Debug\Maskedtexbox_Picturebox.exe
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\bin\Debug\Maskedtexbox_Picturebox.pdb
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.csproj.AssemblyReference.cache
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.Form1.resources
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.Properties.Resources.resources
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.csproj.GenerateResource.cache
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.csproj.CoreCompileInputs.cache
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.exe
+C:\Users\90545\source\repos\Maskedtexbox_Picturebox\Maskedtexbox_Picturebox\obj\Debug\Maskedtexbox_Picturebox.pdb

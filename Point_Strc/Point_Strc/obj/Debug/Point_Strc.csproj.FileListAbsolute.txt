@@ -1,0 +1,10 @@
+D:\C# Projeler\Point_Strc\Point_Strc\bin\Debug\Point_Strc.exe.config
+D:\C# Projeler\Point_Strc\Point_Strc\bin\Debug\Point_Strc.exe
+D:\C# Projeler\Point_Strc\Point_Strc\bin\Debug\Point_Strc.pdb
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.csproj.AssemblyReference.cache
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.Form1.resources
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.Properties.Resources.resources
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.csproj.GenerateResource.cache
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.exe
+D:\C# Projeler\Point_Strc\Point_Strc\obj\Debug\Point_Strc.pdb

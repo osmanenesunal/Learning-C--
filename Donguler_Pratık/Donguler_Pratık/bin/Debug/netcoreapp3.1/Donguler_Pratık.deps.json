@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Donguler_Pratık/1.0.0": {
+        "runtime": {
+          "Donguler_Pratık.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Donguler_Pratık/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

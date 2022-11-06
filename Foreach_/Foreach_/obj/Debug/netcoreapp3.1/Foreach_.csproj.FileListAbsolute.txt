@@ -1,0 +1,16 @@
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.exe
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.deps.json
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.runtimeconfig.json
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.runtimeconfig.dev.json
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.dll
+D:\C# Projeler\Foreach_\Foreach_\bin\Debug\netcoreapp3.1\Foreach_.pdb
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.csproj.AssemblyReference.cache
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.Form1.resources
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.csproj.GenerateResource.cache
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.AssemblyInfoInputs.cache
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.AssemblyInfo.cs
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.dll
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.pdb
+D:\C# Projeler\Foreach_\Foreach_\obj\Debug\netcoreapp3.1\Foreach_.genruntimeconfig.cache

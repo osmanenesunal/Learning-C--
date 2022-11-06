@@ -1,0 +1,17 @@
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.exe
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.deps.json
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.runtimeconfig.json
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.runtimeconfig.dev.json
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.dll
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\bin\Debug\netcoreapp3.1\Bilgi_Yarismasi.pdb
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.csproj.AssemblyReference.cache
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.Form1.resources
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.Properties.Resources.resources
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.csproj.GenerateResource.cache
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.AssemblyInfoInputs.cache
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.AssemblyInfo.cs
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.dll
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.pdb
+D:\C# Projeler\Bilgi_Yarismasi\Bilgi_Yarismasi\obj\Debug\netcoreapp3.1\Bilgi_Yarismasi.genruntimeconfig.cache

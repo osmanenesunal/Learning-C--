@@ -1,0 +1,16 @@
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.exe
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.deps.json
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.runtimeconfig.json
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.runtimeconfig.dev.json
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.dll
+D:\C# Projeler\For_dongu\For_dongu\bin\Debug\netcoreapp3.1\For_dongu.pdb
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.csproj.AssemblyReference.cache
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.Form1.resources
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.csproj.GenerateResource.cache
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.AssemblyInfoInputs.cache
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.AssemblyInfo.cs
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.csproj.CoreCompileInputs.cache
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.dll
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.pdb
+D:\C# Projeler\For_dongu\For_dongu\obj\Debug\netcoreapp3.1\For_dongu.genruntimeconfig.cache

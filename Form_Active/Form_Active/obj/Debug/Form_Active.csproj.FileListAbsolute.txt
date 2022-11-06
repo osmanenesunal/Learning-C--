@@ -1,0 +1,11 @@
+D:\C# Projeler\Form_Active\Form_Active\bin\Debug\Form_Active.exe.config
+D:\C# Projeler\Form_Active\Form_Active\bin\Debug\Form_Active.exe
+D:\C# Projeler\Form_Active\Form_Active\bin\Debug\Form_Active.pdb
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.csproj.AssemblyReference.cache
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.Form1.resources
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.Properties.Resources.resources
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.csproj.GenerateResource.cache
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.exe
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.pdb
+D:\C# Projeler\Form_Active\Form_Active\obj\Debug\Form_Active.Form2.resources

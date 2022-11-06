@@ -1,0 +1,10 @@
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\bin\Debug\Combox_Listbox.exe.config
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\bin\Debug\Combox_Listbox.exe
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\bin\Debug\Combox_Listbox.pdb
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.csproj.AssemblyReference.cache
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.Form1.resources
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.Properties.Resources.resources
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.csproj.GenerateResource.cache
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.exe
+D:\C# Projeler\Combox_Listbox\Combox_Listbox\obj\Debug\Combox_Listbox.pdb

@@ -1,0 +1,10 @@
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\bin\Debug\Login Girişi Yapma.exe.config
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\bin\Debug\Login Girişi Yapma.exe
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\bin\Debug\Login Girişi Yapma.pdb
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login Girişi Yapma.csproj.AssemblyReference.cache
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login_Girişi_Yapma.Form1.resources
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login_Girişi_Yapma.Properties.Resources.resources
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login Girişi Yapma.csproj.GenerateResource.cache
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login Girişi Yapma.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login Girişi Yapma.exe
+D:\C# Projeler\Login Girişi Yapma\Login Girişi Yapma\obj\Debug\Login Girişi Yapma.pdb

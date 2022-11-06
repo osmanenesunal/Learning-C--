@@ -1,0 +1,16 @@
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.exe
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.deps.json
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.runtimeconfig.json
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.runtimeconfig.dev.json
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.dll
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\bin\Debug\netcoreapp3.1\Donguler_Pratık.pdb
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.csproj.AssemblyReference.cache
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.Form1.resources
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.csproj.GenerateResource.cache
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.AssemblyInfoInputs.cache
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.AssemblyInfo.cs
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.dll
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.pdb
+D:\C# Projeler\Donguler_Pratık\Donguler_Pratık\obj\Debug\netcoreapp3.1\Donguler_Pratık.genruntimeconfig.cache

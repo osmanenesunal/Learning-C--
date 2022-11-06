@@ -1,0 +1,16 @@
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.exe
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.deps.json
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.runtimeconfig.json
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.runtimeconfig.dev.json
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.dll
+D:\C# Projeler\Return_metod\Return_metod\bin\Debug\netcoreapp3.1\Return_metod.pdb
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.csproj.AssemblyReference.cache
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.Form1.resources
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.csproj.GenerateResource.cache
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.AssemblyInfoInputs.cache
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.AssemblyInfo.cs
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.dll
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.pdb
+D:\C# Projeler\Return_metod\Return_metod\obj\Debug\netcoreapp3.1\Return_metod.genruntimeconfig.cache

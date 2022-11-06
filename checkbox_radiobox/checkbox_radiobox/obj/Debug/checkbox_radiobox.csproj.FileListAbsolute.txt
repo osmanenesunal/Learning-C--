@@ -1,0 +1,10 @@
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\bin\Debug\checkbox_radiobox.exe.config
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\bin\Debug\checkbox_radiobox.exe
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\bin\Debug\checkbox_radiobox.pdb
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.csproj.AssemblyReference.cache
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.Form1.resources
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.Properties.Resources.resources
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.csproj.GenerateResource.cache
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.csproj.CoreCompileInputs.cache
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.exe
+D:\C# Projeler\checkbox_radiobox\checkbox_radiobox\obj\Debug\checkbox_radiobox.pdb

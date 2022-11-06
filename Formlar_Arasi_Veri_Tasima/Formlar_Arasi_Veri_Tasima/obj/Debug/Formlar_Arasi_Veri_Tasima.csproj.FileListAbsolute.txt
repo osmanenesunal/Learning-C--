@@ -1,0 +1,11 @@
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\bin\Debug\Formlar_Arasi_Veri_Tasima.exe.config
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\bin\Debug\Formlar_Arasi_Veri_Tasima.exe
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\bin\Debug\Formlar_Arasi_Veri_Tasima.pdb
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.Form1.resources
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.Properties.Resources.resources
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.csproj.GenerateResource.cache
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.csproj.CoreCompileInputs.cache
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.exe
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.pdb
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.Form2.resources
+D:\C# Projeler\Formlar_Arasi_Veri_Tasima\Formlar_Arasi_Veri_Tasima\obj\Debug\Formlar_Arasi_Veri_Tasima.csproj.AssemblyReference.cache
