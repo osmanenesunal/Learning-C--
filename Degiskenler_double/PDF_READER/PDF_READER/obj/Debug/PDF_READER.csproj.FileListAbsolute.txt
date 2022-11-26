@@ -1,0 +1,15 @@
+D:\C# Project\PDF_READER\PDF_READER\bin\Debug\PDF_READER.exe.config
+D:\C# Project\PDF_READER\PDF_READER\bin\Debug\PDF_READER.exe
+D:\C# Project\PDF_READER\PDF_READER\bin\Debug\PDF_READER.pdb
+D:\C# Project\PDF_READER\PDF_READER\bin\Debug\Interop.AcroPDFLib.dll
+D:\C# Project\PDF_READER\PDF_READER\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.csproj.AssemblyReference.cache
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\Interop.AcroPDFLib.dll
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.csproj.ResolveComReference.cache
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.Form1.resources
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.Properties.Resources.resources
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.csproj.GenerateResource.cache
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.csproj.CoreCompileInputs.cache
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.exe
+D:\C# Project\PDF_READER\PDF_READER\obj\Debug\PDF_READER.pdb

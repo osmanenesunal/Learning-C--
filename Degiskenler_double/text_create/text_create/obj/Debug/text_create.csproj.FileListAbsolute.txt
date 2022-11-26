@@ -1,0 +1,10 @@
+D:\C# Project\text_create\text_create\bin\Debug\text_create.exe.config
+D:\C# Project\text_create\text_create\bin\Debug\text_create.exe
+D:\C# Project\text_create\text_create\bin\Debug\text_create.pdb
+D:\C# Project\text_create\text_create\obj\Debug\text_create.csproj.AssemblyReference.cache
+D:\C# Project\text_create\text_create\obj\Debug\text_create.Form1.resources
+D:\C# Project\text_create\text_create\obj\Debug\text_create.Properties.Resources.resources
+D:\C# Project\text_create\text_create\obj\Debug\text_create.csproj.GenerateResource.cache
+D:\C# Project\text_create\text_create\obj\Debug\text_create.csproj.CoreCompileInputs.cache
+D:\C# Project\text_create\text_create\obj\Debug\text_create.exe
+D:\C# Project\text_create\text_create\obj\Debug\text_create.pdb

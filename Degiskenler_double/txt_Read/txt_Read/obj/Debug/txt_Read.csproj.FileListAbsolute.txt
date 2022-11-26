@@ -1,0 +1,9 @@
+D:\C# Project\txt_Read\txt_Read\bin\Debug\txt_Read.exe.config
+D:\C# Project\txt_Read\txt_Read\bin\Debug\txt_Read.exe
+D:\C# Project\txt_Read\txt_Read\bin\Debug\txt_Read.pdb
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.Form1.resources
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.Properties.Resources.resources
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.csproj.GenerateResource.cache
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.csproj.CoreCompileInputs.cache
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.exe
+D:\C# Project\txt_Read\txt_Read\obj\Debug\txt_Read.pdb

@@ -1,0 +1,10 @@
+D:\C# Project\txt_save\txt_save\bin\Debug\txt_save.exe.config
+D:\C# Project\txt_save\txt_save\bin\Debug\txt_save.exe
+D:\C# Project\txt_save\txt_save\bin\Debug\txt_save.pdb
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.csproj.AssemblyReference.cache
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.Form1.resources
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.Properties.Resources.resources
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.csproj.GenerateResource.cache
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.csproj.CoreCompileInputs.cache
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.exe
+D:\C# Project\txt_save\txt_save\obj\Debug\txt_save.pdb
